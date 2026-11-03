@@ -1,0 +1,64 @@
+id,nombre,edad,ciudad,salario,genero,fecha_alta,compro
+1,Cliente 1,22.0,Sevilla,22.805 €,Hombre,01/01/2023,Sí
+2,Cliente 2,58.0,madrid,33.810 €,Mujer,08/01/2023,No
+3,Cliente 3,52.0,  MADRID ,17.903 €,Hombre,15/01/2023,Sí
+4,Cliente 4,,Sevilla,25.991 €,Mujer,22/01/2023,No
+5,Cliente 5,40.0,Barcelona ,28.977 €,Mujer,29/01/2023,No
+6,Cliente 6,62.0,Barcelona,,Hombre,05/02/2023,Sí
+7,Cliente 7,22.0,Sevilla,32.267 €,Mujer,12/02/2023,Sí
+8,Cliente 8,54.0,Barcelona,250.000 €,Hombre,19/02/2023,No
+9,Cliente 9,28.0,,25.908 €,Mujer,26/02/2023,Sí
+10,Cliente 10,22.0,Barcelona,25.226 €,Hombre,05/03/2023,Sí
+11,Cliente 11,,Sevilla,33.148 €,Hombre,12/03/2023,No
+12,Cliente 12,68.0,Madrid,26.852 €,Hombre,19/03/2023,No
+13,Cliente 13,250.0,Barcelona,20.346 €,Hombre,26/03/2023,Sí
+14,Cliente 14,57.0,Madrid,21.200 €,Hombre,02/04/2023,Sí
+15,Cliente 15,55.0,Valencia,22.483 €,Mujer,09/04/2023,Sí
+16,Cliente 16,58.0,Barcelona,30.983 €,Hombre,16/04/2023,No
+17,Cliente 17,44.0,Barcelona,28.855 €,Mujer,23/04/2023,No
+18,Cliente 18,24.0,Madrid,,Hombre,30/04/2023,No
+19,Cliente 19,61.0,Valencia,25.436 €,Hombre,07/05/2023,No
+20,Cliente 20,41.0,Valencia,28.951 €,Mujer,14/05/2023,No
+21,Cliente 21,-5.0,Sevilla,31.754 €,Mujer,21/05/2023,Sí
+22,Cliente 22,37.0,Barcelona,26.144 €,Hombre,28/05/2023,Sí
+23,Cliente 23,27.0,Madrid,30.741 €,Hombre,04/06/2023,No
+24,Cliente 24,66.0,Sevilla,24.028 €,Mujer,11/06/2023,No
+25,Cliente 25,58.0,Valencia,25.822 €,Mujer,18/06/2023,No
+26,Cliente 26,,Valencia,25.710 €,Mujer,25/06/2023,Sí
+27,Cliente 27,38.0,Madrid,20.825 €,Hombre,02/07/2023,Sí
+28,Cliente 28,60.0,Barcelona,30.922 €,Hombre,09/07/2023,Sí
+29,Cliente 29,46.0,Sevilla,25.184 €,Mujer,16/07/2023,Sí
+30,Cliente 30,41.0,Sevilla,28.075 €,Mujer,23/07/2023,No
+31,Cliente 31,41.0,,30.884 €,Hombre,30/07/2023,No
+32,Cliente 32,29.0,Sevilla,30.679 €,Hombre,06/08/2023,Sí
+33,Cliente 33,22.0,Sevilla,31.992 €,Hombre,13/08/2023,Sí
+34,Cliente 34,46.0,Barcelona,,Mujer,20/08/2023,No
+35,Cliente 35,64.0,Sevilla,25.460 €,Hombre,27/08/2023,Sí
+36,Cliente 36,21.0,Barcelona,27.522 €,Hombre,03/09/2023,No
+37,Cliente 37,62.0,Madrid,17.876 €,Hombre,10/09/2023,No
+38,Cliente 38,61.0,Valencia,19.317 €,Mujer,17/09/2023,Sí
+39,Cliente 39,32.0,Valencia,20.064 €,Hombre,24/09/2023,Sí
+40,Cliente 40,50.0,Madrid,22.017 €,Hombre,01/10/2023,No
+41,Cliente 41,,Sevilla,30.399 €,Hombre,08/10/2023,No
+42,Cliente 42,57.0,Madrid,22.567 €,Hombre,15/10/2023,Sí
+43,Cliente 43,54.0,Sevilla,25.731 €,Mujer,22/10/2023,No
+44,Cliente 44,36.0,Madrid,35.795 €,Hombre,29/10/2023,No
+45,Cliente 45,21.0,Sevilla,25.862 €,Hombre,05/11/2023,No
+46,Cliente 46,68.0,Sevilla,32.425 €,Mujer,12/11/2023,Sí
+47,Cliente 47,41.0,Sevilla,22.398 €,Hombre,19/11/2023,No
+48,Cliente 48,64.0,Valencia,26.767 €,Mujer,26/11/2023,No
+49,Cliente 49,53.0,Barcelona,,Mujer,03/12/2023,Sí
+50,Cliente 50,58.0,Valencia,25.966 €,Hombre,10/12/2023,Sí
+51,Cliente 51,57.0,Barcelona,33.042 €,Mujer,17/12/2023,No
+52,Cliente 52,28.0,Sevilla,17.636 €,Hombre,24/12/2023,Sí
+53,Cliente 53,36.0,Valencia,,Mujer,31/12/2023,Sí
+54,Cliente 54,42.0,Barcelona,29.426 €,Hombre,07/01/2024,Sí
+55,Cliente 55,43.0,Valencia,24.435 €,Mujer,14/01/2024,No
+56,Cliente 56,20.0,Valencia,19.324 €,Mujer,21/01/2024,No
+57,Cliente 57,46.0,Madrid,28.433 €,Mujer,28/01/2024,Sí
+58,Cliente 58,26.0,Madrid,24.823 €,Hombre,04/02/2024,No
+59,Cliente 59,56.0,Madrid,29.396 €,Hombre,11/02/2024,Sí
+60,Cliente 60,53.0,Madrid,28.131 €,Hombre,18/02/2024,No
+1,Cliente 1,22.0,Sevilla,22.805 €,Hombre,01/01/2023,Sí
+2,Cliente 2,58.0,madrid,33.810 €,Mujer,08/01/2023,No
+3,Cliente 3,52.0,  MADRID ,17.903 €,Hombre,15/01/2023,Sí
